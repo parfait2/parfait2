@@ -37,3 +37,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parfait2&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=acmicpc0208)](https://solved.ac/profile/acmicpc0208)
+
+![parfait2's GitHub stats](https://github-readme-stats.vercel.app/api?username=parfait2&show_icons=true&theme=tokyonight)
